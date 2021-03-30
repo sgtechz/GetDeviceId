@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJxjoCCgRhs7H9VX49gIas8A8/3gcU9UJw26nl2MnM8KBJ3n3adBgjeqRYCMUsHrssGuGbBRHNvQEWNSucSTOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel Gonzale\\Desktop\\deviceId-main\\deviceId-main\\AppPrueba.iOS\\AppPrueba.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel Gonzale\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Samuel Gonzale\\.nuget\\packages\\xam.plugin.deviceinfo\\4.1.1\\xam.plugin.deviceinfo.4.1.1.nupkg.sha512",
+    "C:\\Users\\Samuel Gonzale\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Samuel Gonzale\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
